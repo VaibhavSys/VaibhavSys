@@ -22,9 +22,21 @@ I'm a self-taught passionate software developer from India 🇮🇳
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VaibhavSys&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="VaibhavSys's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSys&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
 
 <a href="https://discord.com/users/914452175839723550">
   <img align="right" alt="Vaibhav Dhiman | Discord" width="20px" src="https://raw.githubusercontent.com/VaibhavSys/VaibhavSys/master/assets/discord.svg" />
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/vaibhavsys rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-8dbe992a-39f5-4e8a-9419-e7bea1782504' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >vaibhavsys</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>I am a Software Developer from India.
+I am a freelance web developer and bot developer.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-8dbe992a-39f5-4e8a-9419-e7bea1782504' src='https://widgets.fiverr.com/api/v1/seller/vaibhavsys?widget_id=8dbe992a-39f5-4e8a-9419-e7bea1782504' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
