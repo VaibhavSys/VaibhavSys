@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate software developer from India 🇮🇳
+I'm a self-taught passionate software developer from India 🇮🇳 \
 Check out my services on [Fiverr](https://www.fiverr.com/vaibhavsys)
 
 **About me**
