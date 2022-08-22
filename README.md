@@ -7,7 +7,7 @@ Check out my services on [Fiverr](https://www.fiverr.com/vaibhavsys)
 
 **About me**
 
-- 💼 Helper at [is-a.dev](https://is-a.dev/)
+- 💼 Helper @ [is-a.dev](https://is-a.dev/), Developer @ [Ignite](https://ignitebot.xyz/), Owner @ [uses-cf](https://uses.cf)
 
 - ❤️ I love writing Python
 
