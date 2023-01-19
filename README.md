@@ -9,3 +9,5 @@ In addition to this, I also have a blog [website](https://www.vaibhav.studio/) w
 Feel free to take a look around and explore my projects. You never know, you might find something that piques your interest. And, if you have any questions or feedback, please don't hesitate to [reach out to me](https://www.vaibhav.studio/contact/). I'm always happy to chat.
 
 Thank you for visiting my profile! 🙏
+
+<img align="left" src="https://github-stats-alpha.vercel.app/api?username=VaibhavSys&cc=000&tc=fff&ic=fff&bc=000" />
