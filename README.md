@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! 🚀
 
-I am a hobby developer from India who likes to work out and read about money, success, and life in my free time. I am proficient in a variety of programming languages, including Python, JavaScript, C++, TypeScript, HTML, CSS, and SASS. I have experience working with a variety of tools, such as Git, Hugo, Linux, Nuxt.js, Vue.js, PostgreSQL, TailwindCSS, and Firebase.
+ I am a hobby developer from India who is passionate about all things tech. In my free time, I like to work out, read about money, success, and life, and of course, code! I am proficient in a variety of programming languages, including Python, JavaScript, C++, TypeScript, HTML, CSS, and SASS. I have experience working with a variety of tools, such as Git, Hugo, Linux, Nuxt.js, Vue.js, PostgreSQL, TailwindCSS, and Firebase.
 
 On my profile, you will find a variety of projects that I have created, ranging from personal projects to open-source contributions. I am always looking to learn new skills and technologies, so my portfolio is always evolving.
 
